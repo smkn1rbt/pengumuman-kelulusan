@@ -1,5 +1,5 @@
 // Countdown Timer
-const targetDate = new Date('2025-05-01T11:50:00').getTime();
+const targetDate = new Date('2025-05-02T10:00:00').getTime();
 const countdownContainer = document.getElementById('countdown-container');
 const departmentSelection = document.getElementById('department-selection');
 const tablesContainer = document.getElementById('tables-container');
